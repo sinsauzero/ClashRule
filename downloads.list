@@ -1,5 +1,4 @@
 # $ custom_build_script -- will be included in download.conf
-
 # Steam
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
@@ -21,54 +20,34 @@ DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN-SUFFIX,steampipe-kr.akamaized.net
 DOMAIN-SUFFIX,steampipe-partner.akamaized.net
-
-# Epic
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,download2.epicgames.com
 DOMAIN-SUFFIX,download3.epicgames.com
 DOMAIN-SUFFIX,download4.epicgames.com
 DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,fastly-download.epicgames.com
-
-# PlayStation
 DOMAIN-SUFFIX,dl.playstation.net
-
-# Battle.net / Blizzard
 DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
 DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
 DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
 DOMAIN-SUFFIX,cdn.blizzard.com
 DOMAIN-SUFFIX,level3.blizzard.com
-
-# Gog
 DOMAIN-SUFFIX,gog-cdn-fastly-cp77.gog.com
 DOMAIN-SUFFIX,gog-cdn-fastly.gog.com
 DOMAIN-SUFFIX,gog-cdn-lumen.secure2.footprint.net
-
-# Xbox
 DOMAIN-SUFFIX,pf-cdn-content-prod.azureedge.net
 DOMAIN-SUFFIX,xvcf1.xboxlive.com
 DOMAIN-SUFFIX,xvcf2.xboxlive.com
 DOMAIN-SUFFIX,packagespc.xboxlive.com
 DOMAIN-SUFFIX,download.xbox.com
-
-# Ubisoft
 DOMAIN-SUFFIX,cdn.ubi.com
-
-# EA Origin
 DOMAIN-SUFFIX,download.dm.origin.com
 DOMAIN-SUFFIX,origin-a.akamaihd.net
 DOMAIN-SUFFIX,cdn.ea.com
 DOMAIN-SUFFIX,dlgarenanow-a.akamaihd.net
-
-# Riot
 DOMAIN-SUFFIX,dyn.riotcdn.net
-
-# Bethesda
 DOMAIN-SUFFIX,content.cdp.bethesda.net
 DOMAIN-SUFFIX,download.cdp.bethesda.net
-
-# Misc
 DOMAIN-SUFFIX,client.hikarifield.co.jp
 DOMAIN-SUFFIX,download.hikarifield.co.jp
 DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
